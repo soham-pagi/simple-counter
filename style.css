@@ -1,0 +1,10 @@
+h1 {
+  font-family: serif;
+  color: red;
+  padding: 0 17px;
+}
+
+button {
+  color: green;
+  padding: 10px;
+}
